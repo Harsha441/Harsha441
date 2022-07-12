@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harsha441
 - 👀 I’m interested in Frontend Development.
 - 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harshavardhanb22@gmail.com
 
 <!---
